@@ -1,0 +1,27 @@
+{
+  "name": "shqear/yii2-language-helpers",
+  "description": "a collection of language helpers functions for Yii2.",
+  "homepage": "https://fb.me/shqear/",
+  "keywords": [
+    "php",
+    "language",
+  ],
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Khaled AbuShqear",
+      "email": "qmax93@gmail.com",
+      "homepage": "https://fb.com/shqear"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "shqear\\lib\\": ""
+    }
+  }
+}
